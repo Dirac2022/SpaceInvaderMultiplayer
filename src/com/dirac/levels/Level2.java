@@ -1,6 +1,7 @@
 package levels;
 
 import game.*;
+import utils.GameConstants;
 
 import java.util.ArrayList;
 import java.util.List;
