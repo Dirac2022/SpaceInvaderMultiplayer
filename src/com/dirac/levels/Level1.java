@@ -1,8 +1,7 @@
 package levels;
 
-import game.SmallEnemy;
-import game.MediumEnemy;
-import game.LargeEnemy;
+import game.*;
+import utils.GameConstants;
 import java.util.ArrayList;
 import java.util.List;
 
